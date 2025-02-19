@@ -30,24 +30,20 @@ We will be comparing the following three algorithms:
 
 1. Clone the repository:
    ```bash
-   git clone <repository_url>
+   git clone <https://github.com/J0hun1/AI_CaseStudy_01.git>
    ```
-2. Navigate to the project directory:
-   ```bash
-   cd CS-17-Introduction-to-Artificial-Intelligence-Case-Study
-   ```
-3. Update pip with:
+2. Update pip with:
    ```bash
    pip install --upgrade pip
    ```
-4. Install the required dependencies:
+3. Install the required dependencies:
    ```bash
    pip install pandas matplotlib seaborn lazypredict scikit-learn
    ```
 
 ## Usage
 
-Follow the instructions in the Jupyter notebooks in the `notebooks/` directory to preprocess the data, train the models, and evaluate their performance.
+Run the code of each notebook in the `notebooks/` directory to preprocess the data, train the models, and evaluate their performance.
 
 ## Conclusion
 
