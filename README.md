@@ -2,9 +2,11 @@
 
 This repository contains the case study project for the subject **Introduction to Artificial Intelligence (CS 17)**. The project involves using a dataset from Kaggle to compare the performance of three different machine learning algorithms.
 
-## Dataset
+## Datasets
 
-The dataset used for this project is the **Student Sleep Patterns** dataset from Kaggle. This dataset provides information about the sleep patterns of students, which we will use to train and evaluate our models.
+**Student Sleep Patterns** dataset from Kaggle. This dataset provides information about the sleep patterns of students.
+
+**Average Monthly Surface Temperatures** dataset from Kaggle. This dataset provides information about the monthly surface temperatures of each country in the world.
 
 ## Algorithms
 
@@ -24,6 +26,7 @@ We will be comparing the following three algorithms:
 
 - `data/`: Contains the dataset and any data preprocessing scripts.
 - `notebooks/`: Jupyter notebooks for data exploration, model training, and evaluation.
+- `dataset_modifiers/`: optional python code to modify datasets.
 - `README.md`: Project overview and instructions.
 
 ## Getting Started
@@ -47,4 +50,4 @@ Run the code of each notebook in the `notebooks/` directory to preprocess the da
 
 ## Conclusion
 
-This project aims to provide a comprehensive comparison of KNN, Logistic Regression, and Decision Tree algorithms using the Student Sleep Patterns dataset. By the end of this case study, we hope to gain insights into the strengths and weaknesses of each algorithm in the context of this specific dataset.
+This project aims to provide a comprehensive comparison of KNN, Logistic Regression, and Decision Tree algorithms using the Student Sleep Patterns dataset. By the end of this case study, we hope to gain insights into the strengths and weaknesses of each algorithm in the context of the chosen datasets.
