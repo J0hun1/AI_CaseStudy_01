@@ -6,8 +6,6 @@ This repository contains the case study project for the subject **Introduction t
 
 **Student Sleep Patterns** dataset from Kaggle. This dataset provides information about the sleep patterns of students.
 
-**Average Monthly Surface Temperatures** dataset from Kaggle. This dataset provides information about the monthly surface temperatures of each country in the world.
-
 ## Algorithms
 
 We will be comparing the following three algorithms:
